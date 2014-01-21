@@ -1,3 +1,3 @@
 function(){
-	console.log('algo nuevo 1');
+	console.log('Clean error');
 }
