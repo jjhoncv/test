@@ -1,3 +1,3 @@
 function(){
-	console.log('algo');
+	console.log('algo nuevo');
 }
